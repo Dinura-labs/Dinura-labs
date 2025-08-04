@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dinura Sasmitha</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">A passionate fullstack developer from Sri Lanka</h3>
 
-<h1 align="center" style="font-family: 'Orbitron', monospace; color: #1e3a8a; font-weight: bold;">
-  SANDITH SITHMAKA THENUWARA
-
-
-   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey+there!+👋+I'm+Sandith;Full+Stack+Developer+🚀;Building+Cool+Stuff+💻" alt="" />
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey+there!+👋+I'm+Dinura;Full+Stack+Developer+🚀;Building+Cool+Stuff+💻" alt="" />
 </h1>
 
 <br>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="900">
+  <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="900">
 </div>
 
 
@@ -24,7 +20,7 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="40"> About Me
 
 ```javascript
-const sandith = {
+const Dinura-labs = {
     location: "Sri Lanka",
     education: "Computer Science @ University of Westminster (IIT)",
     currentRole: "Full Stack Developer",
@@ -83,64 +79,6 @@ const sandith = {
 
 <br>
 
-
-## <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="40"> Featured Projects
-
-<div align="center">
-
-<details>
-<summary><b>🏥 DoctorAid - Healthcare Management Platform</b></summary>
-<br>
-<img src="https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge">
-<img src="https://img.shields.io/badge/Tech-MERN_Stack-blue?style=for-the-badge">
-<br><br>
-
-**🚀 Live:** [doctoraid.site](https://doctoraid.site) | **📁 Code:** [GitHub](https://github.com/DoctorAid)
-
-• Full-stack healthcare management system  
-• Patient management for doctors  
-• Mobile app for appointment booking  
-• Digital prescription access  
-• **Tech Stack:** React, Node.js, MongoDB, React Native, Tailwind CSS
-</details>
-
-<details>
-<summary><b>🎫 Concurrent Ticket Booking System</b></summary>
-<br>
-<img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge">
-<img src="https://img.shields.io/badge/Tech-Spring_Boot-green?style=for-the-badge">
-<br><br>
-
-**📁 Code:** [GitHub](https://github.com/Sandith02/OOP-CW)
-
-• Thread-safe booking system  
-• RESTful API design  
-• Race condition prevention  
-• Object-oriented programming principles  
-• **Tech Stack:** Spring Boot, Java, MySQL
-</details>
-
-<details>
-<summary><b>🏠 Real Estate Website</b></summary>
-<br>
-<img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge">
-<img src="https://img.shields.io/badge/Tech-React-blue?style=for-the-badge">
-<br><br>
-
-• Modern property listing platform  
-• Responsive design with React  
-• Property search and filtering  
-• **Tech Stack:** React, CSS, JavaScript
-</details>
-
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="700">
-</div>
-
 ## <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="40"> GitHub Analytics
 
 <div align="center">
@@ -165,12 +103,12 @@ const sandith = {
 
 <br>
 
-[![Email](https://img.shields.io/badge/📧_lhthenuwara@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lhthenuwara@gmail.com)
+[![Email](https://img.shields.io/badge/📧_info.dinura@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info.dinura@gmail.com)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolio-v1-rc82.vercel.app/)
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Sandith02&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Dinura-labs&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 
 </div>
 
