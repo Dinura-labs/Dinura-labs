@@ -17,7 +17,7 @@
 
 
 
-## <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="40"> About Me
+## <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="30"> About Me
 
 ```javascript
 const Dinura-labs = {
@@ -38,28 +38,28 @@ const Dinura-labs = {
 <br>
 
 
-<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif">
+<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
-- 🎓 **Student** at University of Westminster (IIT)
-- 💻 **MERN Stack** enthusiast
-- 🌱 Currently learning **advanced React patterns**
-- 🎯 Looking for **internship opportunities**
-- ⚡ Fun fact: **I love solving complex problems!**
+- 🏢 **Student** at University of Westminster (IIT)
+- 🧑🏻‍💻 **UI/UX** enthusiast
+- 🧮 Currently learning **DevOps Engineering**
+- 🔍 Looking for **internship opportunities**
+- ⏳ Fun fact: **I love solving complex problems!**
 
 <br>
 
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="40"> Tech Stack
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Tech Stack
 
 <div align="center">
 
 ### Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=flat&logo=javascript&logoColor=black)
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-20232A?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-20232A?style=flat&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-20232A?style=flat&logo=tailwind-css&logoColor=white)
 
 ### Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
@@ -79,41 +79,8 @@ const Dinura-labs = {
 
 <br>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="40"> GitHub Analytics
 
 <div align="center">
-  <img height="110em" src="https://github-readme-stats.vercel.app/api?username=Sandith02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandith02&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
-  <img height="110em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sandith02&theme=tokyonight&hide_border=true" alt="Sandith's streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandith02&bg_color=1a1b27&color=628fdb&line=d65db1&point=ffeb95&area=true&hide_border=true" width="88%" alt="Contribution Graph"/>
-</div></div>
-
-<br>
-
-
-
-## <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="40"> Let's Connect!
-
-<div align="center">
-
-**💼 Seeking internship opportunities • 🚀 Always learning • 💡 Love solving problems**
-
-<br>
-
-[![Email](https://img.shields.io/badge/📧_info.dinura@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info.dinura@gmail.com)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolio-v1-rc82.vercel.app/)
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Dinura-labs&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-
-</div>
-
-<br>
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="55">
+    <img src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQzNjIzNzIsIm5iZiI6MTc1NDM2MjA3MiwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzMtZmRkY2RiY2QtNWVhMi00NDE2LTlmNTktY2E3ZmQ5Mzk0YWNhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODA1VDAyNDc1MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTZmYTJiNGM5MzZmYjZhNTE4OGJjYWM2ZjQ3MGZkZGI3YTk2ZWE2NmUxNmMwODA0MWM0NGRjMmQ1ZTg2MGVjZTUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.KdL3sOdHb7OtTGSQFsaGlGMWlq9WqodiWbnIzHpCMJA" width="100">
   
 </div>
