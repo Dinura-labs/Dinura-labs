@@ -24,7 +24,7 @@ const Dinura-labs = {
     location: "Sri Lanka",
     education: "Computer Science @ University of Westminster (IIT)",
     currentRole: "Full Stack Developer",
-    focus: "Full Stack Applications & Web Applications",
+    focus: "Full Stack Developer, UI/UX Designer, and DevOps Engineer",
     seeking: "Software Engineering Opportunities",
     technologies: {
         frontend: ["React", "React Native", "JavaScript", "HTML5", "CSS3", "Tailwind CSS"],
